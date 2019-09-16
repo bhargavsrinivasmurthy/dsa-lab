@@ -1,6 +1,0 @@
-#include<stdio.h>
-main()
-{
- printf("enter an integer"\n);
- return 0;
- }
